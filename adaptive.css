@@ -1,0 +1,483 @@
+@charset "UTF-8"; 
+
+
+
+@media (max-width: 1366px) {
+    
+.wrapper{
+width: 1366px;
+}
+.header{
+width: 1366px;
+}  
+.box{
+width: 100%;
+}
+.nav{
+max-width: 64%;
+margin: 0 -14%;
+}  
+.checkIn{
+    left: -32px;
+}    
+.headerContent {
+ width: 100%;
+ left: -215px;
+}   
+ .tel{
+position: relative;
+left: -124px;
+ }
+.basket{
+left: 1423px;
+}
+.rectangle{
+width: 268px;
+}
+.search{
+    left: 527px;
+}
+.basket{
+left: 1423px;
+}
+.banners{
+width: 100%;
+}
+.circle {
+left: 547px;
+}
+.banners>p:nth-of-type(1) {
+left: 150px;
+}
+.banners>img:nth-of-type(2) {
+left: 148px;
+}
+.banners>p:nth-of-type(2) {
+left: 143px;
+}
+.banners>img:nth-of-type(3) {
+left: 590px;
+}
+.banners>p:nth-of-type(3) {
+left: 1062px;
+}
+.banners>p:nth-of-type(4) {
+left: 1061px;
+}
+.banners>p:nth-of-type(5) {
+left: 1054px;
+top: 300px;
+} 
+.bannerButton {
+left: 1058px;
+}
+.banners>img:nth-of-type(4) {
+left: 1285px;
+}    
+.content{
+width: 1366px;
+}  
+.product{
+left: -280px;
+width: 100%;
+} 
+.slider {
+width: 100%;
+left: 278px;
+position: relative;
+}
+.description {
+width: 100%;
+}    
+.aboutUs{
+left: 179px;
+}
+.aboutUsLine{
+width: 586px;
+}
+.rectangularShell{
+left: 113px;
+width: 474px;
+}
+.rectangularShell>a>span{
+top: 249px;  
+}
+.arrowDetails{
+top: 254px;
+}
+.productDay>p{
+left: 118px;
+}   
+ .productDayLine{
+    left: 122px;
+}
+.productWrapper{
+    top: 107px;
+    width: 426px;
+}  
+.usefulness{
+    left: 1242px;
+}  
+.usefulnessLine{
+    width: 382px;
+}   
+.blockDate{
+    top: 105px;
+}  
+    .footerVerticalLine{
+        margin-left: -25px;
+    }
+    
+}    /*///  end 1366  ////*/
+
+@media (max-width: 1024px)  {
+    
+.wrapper{
+width: 1024px;
+    height: 4000px;
+/*background-color: #8484c5;*/
+} 
+.header {
+    width: 100%;
+}       
+.nav {
+    max-width: 79%;
+    margin: 0 -23%;
+}
+.scroll {
+    padding: 0 7px;
+}
+.checkIn {
+    left: -7px;
+}   
+.headerContent {
+    left: -239px;
+}   
+.tel {
+    left: -402px;
+}    
+.logo>a>img {
+    width: 239px;
+}   
+.logoLine {
+    height: 55px;
+    left: 489px;
+    top: 82px;
+}    
+.text {
+    left: 503px;
+    top: 84px;
+}   
+.basket {
+    left: 1105px;
+}
+.search {
+    width: 734px;
+}
+.banners {
+    top: 271px;
+    height: 691px;
+}    
+.bannerButton {
+    left: 420px;
+    top: 567px;
+}  
+    .content{
+        top: 961px;
+    }
+.banners>p:nth-of-type(1) {
+    left: 114px;
+}
+.banners>img:nth-of-type(2) {
+    left: 108px;
+}
+.banners>p:nth-of-type(2) {
+    left: 110px;
+}
+.circle {
+    left: 508px;
+}
+.banners>p:nth-of-type(3) {
+    left: 721px;
+    top: 15px;
+}
+.banners>p:nth-of-type(4) {
+    left: 720px;
+    top: 72px;
+}
+.banners>p:nth-of-type(5) {
+    left: 827px;
+    top: 102px;
+}
+.banners>img:nth-of-type(3) {
+    left: 546px;
+}
+.banners>img:nth-of-type(4) {
+    left: 948px;
+}
+.content {
+    width: 100%;
+    height: auto;
+}
+.block {
+    margin-top: 17px;
+}
+.product {
+    left: -251px;
+    top: 1042px;
+}
+.productLine {
+    width: 351px;
+}
+.bottonLeft {
+    left: 1066px;
+}
+.bottonRight {
+    left: 1148px;
+} 
+.slider {
+    left: 252px;
+}
+.positions {
+    margin: 30px 12px;
+}
+.description {
+    top: 1246px;
+}
+.aboutUsLine {
+    width: 480px;
+}
+.productDay {
+    left: 686px;
+}
+.rectangularShell {
+    height: 282px;
+}
+.usefulness {
+    left: 590px;
+    top: 446px;
+}   
+ .footer {
+    top: 4160px;
+}
+.delivery>div{
+top: 80px; !important 
+margin-left: -31px;
+}
+.footerVerticalLine{
+margin-left: -15px;
+margin-top: -69px;
+} 
+.delivery>div:nth-of-type(1){
+top: 80px;
+}
+.receipts>h4>p{
+width: 245px;
+}
+.circleSocial {
+ top: -43px;
+ left: 238px;
+ }
+    
+
+    
+}     /*///  end 1024  ////*/   
+
+@media (max-width: 768px) {
+    
+/*  Не нужно   */
+    
+}    /*///  end 768  ////*/       
+
+@media (max-width: 480px) {
+    
+.wrapper{
+width: 480px;
+height: 6792px;
+}   
+.box {
+    height: 116px;
+}  
+.nav {
+    top: 14px;
+    left: 129px;
+}
+.checkIn {
+    top: 63px;
+}    
+.headerContent {
+    top: 51px;
+}    
+.tel {
+    left: -785px;
+    top: 70px;
+}
+.rectangle {
+    top: 253px;
+} 
+.basket {
+    left: 561px;
+    top: 253px;
+}
+.search {
+    left: 260px;
+    top: 312px;
+    width: 299px;
+    height: 52px;
+}
+.search>p {
+    left: 84px;
+    top: 17px;
+}
+.rectangle {
+    width: 301px;
+}
+.banners>img:nth-of-type(1),
+ .banners>img:nth-of-type(4){
+display: none;
+} 
+.banners>p:nth-of-type(1) {
+    left: 142px;
+}
+.banners>p:nth-of-type(2) {
+    left: 64px;
+    text-align: center;
+    top: 322px;
+}
+.banners>img:nth-of-type(2) {
+    left: 99px;
+    width: 272px;
+    height: 125px;
+    top: 126px;
+}
+.banners>img:nth-of-type(3) {
+    left: 53px;
+    top: 587px;
+    width: 77%;
+    height: auto;
+}
+.banners>p:nth-of-type(4) {
+    left: 159px;
+    top: 472px;
+}
+.banners>p:nth-of-type(5) {
+    left: 151px;
+    top: 508px;
+}
+.bannerButton {
+    left: 124px;
+    top: 861px;
+}
+ .banners {
+    top: 474px;
+    height: 973px;
+} 
+.banners>p:nth-of-type(3) {
+    left: 142px;
+    top: 397px;
+    text-align: center;
+}
+.circle {
+    display: none;
+}
+.content {
+    top: 1413px;
+}
+.product {
+    top: 1417px;
+}  
+.productLine {
+    top: 58px;
+    left: 289px;
+}
+.product>p {
+    left: 317px;
+}
+.bottonLeft, .bottonRight {
+    display: none;
+}
+.description {
+    top: 2246px;
+}
+.productDay {
+    left: 164px;
+    top: 488px;
+}
+.usefulness {
+    left: 300px;
+    top: 923px;
+}
+.rectangularShell {
+    left: 109px;
+}
+.aboutUsLine {
+    width: 411px;
+}
+.rectangularShell {
+    width: 408px;
+    height: 326px;
+}
+.rectangularShell>a>span {
+    top: 278px;
+}
+.arrowDetails {
+    top: 282px;
+}
+.productWrapper>p:nth-of-type(1) {
+    width: 223px;
+}
+.productWrapper {
+    left: 111px;
+}
+.aboutUs {
+    width: 527px;
+}
+.footer {
+    top: 6415px;
+}
+.info{
+display: block;
+height: 460px;
+padding: 2px 86px;
+}
+.footerVerticalLine {
+display: none;
+}  
+.contactsFooter{
+display: block;
+height: 835px;
+padding: 2px 140px;
+}  
+.circleSocial{
+display: none;
+} 
+.info{
+width: 311px;
+}
+.contactsFooter{
+width: 203px;
+}
+    
+    
+    
+}     /*///  end 480  ////*/    
+
+@media (max-width: 320px) {}     /*///  end 320   ////*/    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
