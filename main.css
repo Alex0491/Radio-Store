@@ -1,13 +1,36 @@
+
 .breadcrumb-item + .breadcrumb-item::before {
     color: #18e04a;
     content: ">";
   }
 
+.breadcrumb{
+    background-color: transparent;
+}
+
+.col-xs-10{
+    top: 41px;
+}
+
+.col-xs-2{
+    top: 30px;
+}
+
+
+
+
   a{
       color: black;
   }
+  .iconOne{
+      position: relative;
+      right: 25px;
+      top: 19px;
+  }
 
 
-  /* body{
-      background-color: aqua;
-  } */
+
+
+
+
+
